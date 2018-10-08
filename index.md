@@ -1,5 +1,13 @@
 ## 欢迎来到Stuart的个人主页
 
+南昌大学
+
+软件学院
+
+软件工程
+
+JAVA .NET 
+
 You can use the [editor on GitHub](https://github.com/stuartmatrix/optimus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
