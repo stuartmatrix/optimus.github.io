@@ -1,12 +1,4 @@
-## 欢迎来到Stuart的个人主页
 
-南昌大学
-
-软件学院
-
-软件工程
-
-JAVA .NET 
 
 You can use the [editor on GitHub](https://github.com/stuartmatrix/optimus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
